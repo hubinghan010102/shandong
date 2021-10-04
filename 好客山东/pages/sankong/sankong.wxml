@@ -1,0 +1,20 @@
+<!--pages/sankong/sankong.wxml-->
+<image mode="widthFix" src='/images/sankong.jpg'></image>
+<view class="box1">
+    历史悠久 文化积淀
+</view>
+<view class="textStyle01">
+    孔庙，又被称为“至圣庙”，规模宏大、金碧辉煌，极具东方特色，有“天下第一庙”之美誉；孔府与孔庙毗邻，为孔子后裔直系子孙衍圣公住宅，被誉为“天下第一家”；孔林是孔子及其家族的专用墓地，也被称为“天下第一林”。1994年，三孔被列入《世界文化遗产名录》。
+</view>
+<view style='display:flex;flex-direction: column;margin:10rpx;'>
+    <view>
+        <image mode="widthFix" src='/images/kongmiao.jpg'></image>
+    </view>
+    <view>
+        <image mode="widthFix" src='/images/kongfu.jpg'></image>
+    </view>
+    <view>
+        <image mode="widthFix" src='/images/konglin.jpg'>
+        </image>
+    </view>
+</view>

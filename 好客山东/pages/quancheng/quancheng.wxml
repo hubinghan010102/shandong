@@ -1,0 +1,13 @@
+<!--pages/quancheng/quancheng.wxml-->
+<image mode="widthFix" src='/images/jinan.jpg'></image>
+<view class="textStyle01">
+    济南号称“泉城”，山东省省会、副省级市、特大城市、济南都市圈核心城市、是国务院批复确定的环渤海地区南翼的中心城市，是山东省政治、经济、文化、科技、教育和金融中心，重要的交通枢纽。有泉水百余处，其中名泉七十二处。明湖即是由众泉汇流而成的天然湖泊。泉水由南岸流入，水满时从宋代修建于北岸的北水门流出，湖底由不透水的火成岩构成，因而湖水“恒雨不涨，久旱不涸”，常年保持较固定的水位。公园面积86公顷，其中湖面46公顷。湖上有历下亭、汇泉堂、湖心岛等大小岛屿六处，公园自然景观优美宜人，湖水波光粼粼，鸢飞鱼跃，游船穿行。大明湖自古遍生荷莲，湖畔垂柳依依，花木扶疏，“四面荷花三面柳，一城山色半城湖”是她风景的最好写照。公园的人文景观十分丰富，历下亭、铁公祠、南丰祠、北极庙等三十余处名胜古迹掩映于绿树繁花之间，展现出悠久的历史文化。
+</view>
+<view style='display:flex;flex-direction: column;margin:20rpx 0;'>
+    <view>
+        <image mode="widthFix" src='/images/dmh.jpg'></image>
+    </view>
+    <view>
+        <image mode="widthFix" src='/images/quan.jpg'></image>
+    </view>
+</view>

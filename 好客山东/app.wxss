@@ -1,0 +1,9 @@
+/**app.wxss**/
+.textStyle01{
+    color: #000000;
+    text-align: left;
+    text-indent: 30px;
+    line-height: 30px;
+    white-space: normal;
+    word-break: break-all;
+  }

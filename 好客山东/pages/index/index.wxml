@@ -1,0 +1,25 @@
+<!--index.wxml-->
+<view style='display:flex;height:100px;'>
+  <image mode="widthFix" src='/images/img1.png'></image>
+</view>
+<view style='display:flex;margin: 10px 0;'>
+  <button bindtap="item1">
+    <image src='/images/sd1.png'></image>
+    <view style="font-size: 12px;">山东概况</view>
+  </button>
+  <button bindtap="item2">
+    <image src='/images/ru.png'></image>
+    <view style="font-size: 12px;">礼仪之邦</view>
+  </button>
+  <button bindtap="item3">
+    <image src='/images/fg.png'></image>
+    <view style="font-size: 12px;">无限风光</view>
+  </button>
+  <button bindtap="item4">
+    <image src='/images/ms.png'></image>
+    <view style="font-size: 12px;">齐鲁美食</view>
+  </button>
+</view>
+<view class='textStyle01'>
+  山东，因居太行山以东而得名，省会济南。先秦时期隶属齐国、鲁国，故而别名齐鲁。这个位于华东地区的最北端省份，是东部山地与西部海滨的过渡带，西承中原文明，坚韧朴实，东接海洋文明，开放包容。西部连接内陆，东部隔海洋与朝鲜半岛相望，北隔渤海海峡与辽东半岛相对，东南则遥望东海及日本。山东省现辖16个地级市，136个县级单位。
+</view>

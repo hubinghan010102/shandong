@@ -1,0 +1,10 @@
+<!--pages/taishan/taishan.wxml-->
+<view>
+    <image mode="widthFix" src='/images/tai.jpg'></image>
+</view>
+<view class="box1">
+    雄伟壮丽 五岳独尊
+</view>
+<view class="textStyle01">
+    泰山，位于山东省中部，以气势雄伟著称于世。泰山融雄伟壮丽的自然风光与悠久灿烂的历史文化于一体，是中国首例世界文化与自然双遗产、世界地质公园，形成了旭日东升、云海玉盘等独特的自然景观。
+</view>

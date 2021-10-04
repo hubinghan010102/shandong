@@ -1,0 +1,4 @@
+/* pages/myhome/myhome.wxss */
+image{
+    width:100%;
+  }
